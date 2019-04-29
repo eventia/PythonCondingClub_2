@@ -1,0 +1,14 @@
+*.pyc
+
+*~
+
+__pycache__
+
+p37
+myvenv
+
+db.sqlite3
+
+/static
+
+.DS_Store
